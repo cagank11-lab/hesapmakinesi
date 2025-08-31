@@ -1,5 +1,5 @@
 # Kullanıcıdan hangi işlemi yapmak istediğini al
-islem = input("Yapmak istediğiniz işlemi girin (+, -, *, /): ")
+islem = input("Yapmak istediğiniz işlemi girin (+, -, *, /, ?): ")
 
 # Kullanıcıdan iki sayı al
 ilksayi = float(input("İlk sayıyı giriniz: "))
